@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "func",
+  "key": {
+    "A": {
+      "item": "minecraft:white_wool"
+    },
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "C": {
+      "item": "minecraft:light_blue_wool"
+    }
+  },
+  "pattern": [
+    "BCB",
+    "CCC",
+    "ACA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fizzymod:blahaj"
+  }
+}
